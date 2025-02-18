@@ -4,4 +4,4 @@
 
 - RVC模型本体：可克隆[此仓库](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI.git)后，运行gradio中`ONNX导出`选项卡内的按钮
 
-- Hubert：正在提交[Issue](https://github.com/facebookresearch/fairseq/issues/5596)并等待处理，另外
+- Hubert：[验证过程](https://github.com/NewMoe-Technology/RVC-Researching/blob/master/HubertExporationProving.ipynb)
